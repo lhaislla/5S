@@ -10,6 +10,6 @@ Ferramenta de monitoramento dos critérios da filosofia do 5S
 
 ![Identificação da data](./Img/2page_1.PNG)
 
-[Avaliação da área](./Img/2page_2.PNG)
+![Avaliação da área](./Img/2page_2.PNG)
 
 ---
